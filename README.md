@@ -9,7 +9,7 @@ For additional info and de-escalation, consult the Fireside Project at [https://
 
 # Drug-Drug Interactions
 
-For drug-drug interactions, click here: [link](https://github.com/carryingtheflame/psychedelic/blob/main/interactions.md). Bear in mind knowledge is limited at this time. Always err on the side of caution.
+For a list of drug-drug interactions, click here: [link](https://github.com/carryingtheflame/psychedelic/blob/main/interactions.md). Bear in mind knowledge is limited at this time. Always err on the side of caution. Be sure to read all info on this page and from the Fireside Project.
 
 # Harm reduction tips
 
