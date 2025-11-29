@@ -1,7 +1,7 @@
 # psychedelic
 Harm reduction education
 
-For drug-drug interactions, click here: (link)[https://github.com/carryingtheflame/psychedelic/blob/main/interactions.md]
+For drug-drug interactions, click here: [link](https://github.com/carryingtheflame/psychedelic/blob/main/interactions.md)
 
 # Disclaimer
 
