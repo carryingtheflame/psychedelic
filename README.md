@@ -1,6 +1,8 @@
 # psychedelic
 Harm reduction education
 
+For drug-drug interactions, click here: (link)[https://github.com/carryingtheflame/psychedelic/blob/main/interactions.md]
+
 # Disclaimer
 
 This information is for harm-reduction and educational purposes only and is not medical advice. Do not stop, change, or start any prescription medication without consulting your prescriber. Psychedelic substances can carry medical and legal risks; individual reactions vary and serious adverse events can occur. If you have a medical or psychiatric condition (including pregnancy), take multiple medications, or are unsure about safety, consult a qualified healthcare professional before using psychedelics. In an emergency, seek immediate medical care or call your local emergency number. Use at your own risk.
