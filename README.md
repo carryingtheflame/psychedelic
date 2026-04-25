@@ -11,7 +11,7 @@ For additional info and de-escalation, consult the Fireside Project at [https://
 
 For a list of drug-drug interactions, click here:
 
-[===Link to list of drug-drug interactions===](https://github.com/carryingtheflame/psychedelic/blob/main/interactions.md).
+===[Link to list of drug-drug interactions](https://github.com/carryingtheflame/psychedelic/blob/main/interactions.md).===
 
 Bear in mind knowledge is limited at this time. Always err on the side of caution. Be sure to read all info on this page and from the Fireside Project.
 
