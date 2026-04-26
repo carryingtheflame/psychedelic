@@ -11,7 +11,20 @@ For additional info and de-escalation, consult the Fireside Project at [https://
 
 For a list of drug-drug interactions, click here:
 
-<a href="https://github.com/carryingtheflame/psychedelic/blob/main/interactions.md" style="background-color: #4CAF50; color: #fff; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; text-decoration: none;">Link to List of Drug-Drug Interactions</a>
+<style>
+  .button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+</style>
+
+<a href="https://github.com/carryingtheflame/psychedelic/blob/main/interactions.md" class="button">Link to List of Drug-Drug Interactions</a>
 
 Bear in mind knowledge is limited at this time. Always err on the side of caution. Be sure to read all info on this page and from the Fireside Project.
 
